@@ -1,0 +1,1 @@
+Map that searches for images of Descent 2 from the database, idea is to project them for quick map setup.
